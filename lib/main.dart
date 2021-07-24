@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:meal_recipes/main_sceen.dart';
 
+//coba github ufydytd
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
