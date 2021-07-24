@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:meal_recipes/main_sceen.dart';
-//mau di bikin apa
 
 void main() => runApp(MyApp());
 
